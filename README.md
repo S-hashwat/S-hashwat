@@ -14,9 +14,9 @@ An undergraduate in Computer Science from VIT Bhopal University seeking a dynami
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Shashwaat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shashwaat&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwaat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=S-hashwat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=S-hashwat&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-hashwat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ✍️ A simple quote that guides me through my journey "First, solve the problem. Then, write the code."  By John Johnson
